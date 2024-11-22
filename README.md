@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipecastillo-b&label=Profile%20views&color=0e75b6&style=flat" alt="felipecastillo-b" /> </p>
 
-- 🔭 I’m currently working on [Free Agents](https://github.com/felipecastillo-b/free-agents) and [Api Free Agents](https://github.com/felipecastillo-b/api-free-agents)
+- 🔭 I’m currently working on [API Bodega](https://github.com/felipecastillo-b/api-bodega) and [Front Bodega](https://github.com/moontivac10n/bodega-front)
 
-- 🌱 I’m currently learning **Next.js, Express and Prisma**
+- 🌱 I’m currently learning **Next.js, Express, Pandas and Prisma**
 
 - 👨‍💻 All of my projects are available at [Soon...](Soon...)
 
