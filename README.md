@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipecastillo-b&label=Profile%20views&color=0e75b6&style=flat" alt="felipecastillo-b" /> </p>
 
-- 🔭 I’m currently working on [API Bodega](https://github.com/felipecastillo-b/api-bodega) and [Front Bodega](https://github.com/moontivac10n/bodega-front)
+- 🔭 I’m currently working on [Sistema Inventario](https://github.com/felipecastillo-b/sistema-inventario)
 
 - 🌱 I’m currently learning **Next.js, Express, Pandas and Prisma**
 
-- 👨‍💻 All of my projects are available at [Soon...](Soon...)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://portfolio-felipecastillo.vercel.app/)
 
-- 📫 How to reach me **felipecastillo.snk@gmail.com**
+- 📫 How to reach me **felipecastillo.snk@gmail.com** or **hardcode.contacto@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
