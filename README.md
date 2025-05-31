@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipecastillo-b&label=Profile%20views&color=0e75b6&style=flat" alt="felipecastillo-b" /> </p>
 
-- 🔭 I’m currently working on [Sistema Inventario](https://github.com/felipecastillo-b/sistema-inventario)
+- 🔭 I’m currently working on [Open Codex](https://github.com/Open-Codex/)
 
-- 🌱 I’m currently learning **Next.js, Express, Pandas and Prisma**
+- 🌱 I’m currently learning **Next.js, Express, TypeScript, PostgreSQL and Go**
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://portfolio-felipecastillo.vercel.app/)
 
