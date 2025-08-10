@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Open Codex](https://github.com/Open-Codex/)
 
-- 🌱 I’m currently learning **Next.js, Express, TypeScript, PostgreSQL and Go**
+- 🌱 I’m currently learning **Next.js, Express, TypeScript, PostgreSQL and CP with Java**
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://portfolio-felipecastillo.vercel.app/)
 
