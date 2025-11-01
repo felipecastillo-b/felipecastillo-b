@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on [Open Codex](https://github.com/Open-Codex/)
 
+- 💼 **I’m looking for new opportunities!** Feel free to reach out if you're looking for a developer to join your project or team. I'm open to both freelance and full-time roles.
+
 - 🌱 I’m currently learning **Next.js, Express, TypeScript, PostgreSQL and CP with C++ and Java**
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://portfolio-felipecastillo.vercel.app/)
