@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipecastillo-b&label=Profile%20views&color=0e75b6&style=flat" alt="felipecastillo-b" /> </p>
 
-- 🔭 I’m currently working on [Open Codex](https://github.com/Open-Codex/)
+- 🔭 I’m currently working on [Open Codex](https://github.com/Open-Codex/) and contribute as a writer to the [Open Codex blog](https://blog-es.opencodex.app/).
 
 - 💼 **I’m looking for new opportunities!** Feel free to reach out if you're looking for a developer to join your project or team. I'm open to both freelance and full-time roles.
 
