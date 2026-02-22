@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
-<h3 align="center">I am passionate Developer</h3>
+<h3 align="center">I am a Fullstack Developer & Creator of Open Codex</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipecastillo-b&label=Profile%20views&color=0e75b6&style=flat" alt="felipecastillo-b" /> </p>
 
-- 🔭 I’m currently working on [Open Codex](https://github.com/Open-Codex/) and contribute as a writer to the [Open Codex blog](https://blog-es.opencodex.app/).
+- 💼 **Looking for new opportunities!** Ready to bring value to your team as a Fullstack Developer.
+- 🌱 Currently mastering **Next.js, PostgreSQL and Competitive Programming** (C++/Java).
+- 👨‍💻 See my full journey at: **[me.opencodex.app](https://me.opencodex.app/)**
+- 📫 Reach me: **contact@opencodex.app**
 
-- 💼 **I’m looking for new opportunities!** Feel free to reach out if you're looking for a developer to join your project or team. I'm open to both freelance and full-time roles.
+### 🚀 My Ecosystem: Open Codex
+  - 🔍 **[Open Codex](https://opencodex.app)** - In Progress. Project finder for collaboration.
+  - ✍️ **[Blog](https://blog.opencodex.app)** - Technical writing about Linux & Dev.
+  - 💡 **[Prompts](https://prompts.opencodex.app)** - Curated library for AI models.
+  - 💼 **[Jobs](https://jobs.opencodex.app)** - Tech job board with smart filters.
 
-- 🌱 I’m currently learning **Next.js, Express, TypeScript, PostgreSQL and CP with C++ and Java**
-
-- 👨‍💻 All of my projects are available at my [Portfolio](https://portfolio-felipecastillo.vercel.app/)
-
-- 📫 How to reach me **felipecastillo.snk@gmail.com** or **hardcode.contacto@gmail.com** 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
