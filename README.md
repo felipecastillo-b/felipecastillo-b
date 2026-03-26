@@ -10,7 +10,7 @@
 
 ### 🚀 My Ecosystem: Open Codex
   - 🔍 **[Open Codex](https://opencodex.app)** - Talent Hub, for searching Developers.
-  - 🔍 **[Projects](https://projects.opencodex.app)** - Project finder for collaboration.
+  - 📚 **[Projects](https://projects.opencodex.app)** - Project finder for collaboration.
   - ✍️ **[Blog](https://blog.opencodex.app)** - Technical writing about Linux & Dev.
   - 💡 **[Prompts](https://prompts.opencodex.app)** - Curated library for AI models.
   - 💼 **[Jobs](https://jobs.opencodex.app)** - Tech job board with smart filters.
