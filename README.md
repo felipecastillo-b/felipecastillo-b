@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipecastillo-b&label=Profile%20views&color=0e75b6&style=flat" alt="felipecastillo-b" /> </p>
 
 - 💼 **Looking for new opportunities!** Ready to bring value to your team as a Fullstack Developer.
-- 🌱 Currently mastering **Next.js, PostgreSQL and Competitive Programming** (C++/Java).
+- 🌱 Currently mastering **Next.js, NestJs, OCI, PostgreSQL and Competitive Programming** (C++/Java).
 - 👨‍💻 See my full journey at: **[me.opencodex.app](https://me.opencodex.app/)**
 - 📫 Reach me: **contact@opencodex.app**
 
