@@ -14,6 +14,7 @@
   - ✍️ **[Blog](https://blog.opencodex.app)** - Technical writing about Linux & Dev.
   - 💡 **[Prompts](https://prompts.opencodex.app)** - Curated library for AI models.
   - 💼 **[Jobs](https://jobs.opencodex.app)** - Tech job board with smart filters.
+  - 📑 **[CV/Resume Builder](https://cv.opencodex.app)** - CV/Resume builder for Users of OpenCodex.
 
 
 <h3 align="left">Languages and Tools:</h3>
