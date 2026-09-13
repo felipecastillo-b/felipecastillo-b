@@ -36,9 +36,9 @@
   ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash&&logoColor=%23FFFFFF)
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipecastillo-b&show_icons=true&locale=en&theme=github_dark" alt="felipecastillo-b" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipecastillo-b&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="felipecastillo-b" /></p>
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=felipecastillo-b&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+</div>
 
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/felipecastillo"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="felipecastillo" /></a></p><br><br>
