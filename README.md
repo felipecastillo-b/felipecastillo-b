@@ -8,6 +8,9 @@
 - 👨‍💻 See my full journey at: **[me.opencodex.app](https://me.opencodex.app/)**
 - 📫 Reach me: **contact@opencodex.app**
 
+### 🚀 My Projects
+  - 🔍 **[Serverctl](https://github.com/felipecastillo-b/serverctl)** - Monitoring Linux servers.
+
 ### 🚀 My Ecosystem: Open Codex
   - 🔍 **[Open Codex](https://opencodex.app)** - Talent Hub, for searching Developers.
   - 📚 **[Projects](https://projects.opencodex.app)** - Project finder for collaboration.
