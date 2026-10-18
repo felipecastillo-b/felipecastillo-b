@@ -40,7 +40,8 @@
 
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=felipecastillo-b&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=felipecastillo-b&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a><br>
+<a href="[https://git.io/streak-stats](https://github-stats-extended.vercel.app/)"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=felipecastillo-b&hide_progress=true&langs_count=4&hide_values=true&theme=dark_github" /></a>
 </div>
 
 <h3 align="center">Support:</h3>
